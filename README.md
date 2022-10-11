@@ -2,6 +2,6 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="http://www.w3.org/2000/svg" width="30%">
+        <img src="https://images.app.goo.gl/nfG8UfqfFYR4gfBf7" width="30%">
     </a>
 </p>
